@@ -1,4 +1,5 @@
 #include <stdio>
+#include <vector>
 #include <list>
 
 int main()
