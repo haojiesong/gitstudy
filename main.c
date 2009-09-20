@@ -2,5 +2,5 @@
 
 void main()
 {
-    std::cout << "Hello Git!";
+    std::cout << "Hello Git!" << std::endl;
 }
