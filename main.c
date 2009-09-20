@@ -1,6 +1,6 @@
 #include <stdio>
 
-void main()
+int main()
 {
     std::cout << "Hello Git!" << std::endl;
 }
